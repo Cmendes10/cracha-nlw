@@ -12,6 +12,7 @@ body {
 }
 
 body {
+  background-color: rgb(41, 39, 39);
   display: grid;
   place-items: center;
 }
